@@ -1,8 +1,8 @@
-Test event linking
+Test attributed entity/event linking
 
 
-## To install phenosage in a new conda envioment
-med-phenosageconda create -n mynev python=3.9. 
+## To install in a new conda envioment
+create -n mynev python=3.9. 
 
 conda activate myenv. 
 
@@ -19,7 +19,7 @@ example I copied the file here :
 ~/.conda/pkgs/pytorch-geometric-2.0.3-py39_torch_1.9.0_cu102/lib/python3.9/site-packages/torch_geometric/logging.py. 
 
 
-## To run phenosage
+## To run 
 conda activate myenv. 
 
 python gcn.py.
