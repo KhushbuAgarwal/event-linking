@@ -1,4 +1,4 @@
-# Med-Phenosage: Link new medical phenotypes (from EHR) to existing disease phenotypes in a clinical knowledege base
+Test event linking
 
 
 ## To install phenosage in a new conda envioment
