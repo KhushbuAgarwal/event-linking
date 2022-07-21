@@ -19,7 +19,7 @@ export CUDA_VISIBLE_DEVICES=0,1
 dt=`date '+%Y%m%d_%H%M%S'`
 
 
-dataset="dbpedia"
+dataset="cora"
 model='gcn'
 shift
 shift
